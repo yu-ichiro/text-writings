@@ -1,0 +1,1 @@
+/Users/yuichiro/ghq/github.com/yu-ichiro/text-writings/master_data/20210116-tmux-ansi-color.md

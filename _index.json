@@ -1,0 +1,30 @@
+{
+    "version": 1,
+    "type": "text-writings-index",
+    "data": {
+        "20200116-tmux-ansi-color": {
+            "path": "master_data/20210116-tmux-ansi-color.md",
+            "tags": {
+                "language": ["japanese"],
+                "platform": ["zenn"],
+                "category": ["shell"]
+            }
+        }
+    },
+    "tags": {
+        "language": [
+            "japanese",
+            "english"
+        ],
+        "platform": [
+            "zenn",
+            "qiita",
+            "crieit",
+            "dev.to"
+        ],
+        "category": [
+            "shell"
+        ]
+    }
+}
+
