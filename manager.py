@@ -19,5 +19,4 @@ if __name__ == "__main__":
     for data_id, info in settings["data"].items():
         for tag, items in info["tags"].items():
             for item in items:
-                src = os.path.abspath(info["path"])
-                os.symlink(src, f"tags/{tag}/{item}/{data_id}.md")
+                os.symlink(f"../../../{info['path']}", f"tags/{tag}/{item}/{data_id}.md")
